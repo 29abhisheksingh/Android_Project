@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+
+    <string name="La_currency">la Currency</string>
+    <string name="todo"></string>
+    <string name="e_mail">Email</string>
+    <string name="home">Home</string>
+    <string name="market_status">Market Status</string>
+    <string name="help">Help</string>
+    <string name="contact">Contact</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="convert">Convert</string>
+    <string name="welcome_to_currency_converter">Welcome to Currency Converter</string>
+    <string name="result"></string>
+    <string name="tocurrency">toCurr</string>
+    <string name="fromcurrency">fromCurr</string>
+    <string name="Name">Name</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="question_currency_tracked">Total number of currencies supported by App</string>
+    <string name="question_base_currency">EUR</string>
+    <string name="To">To</string>
+    <string name="userID">User ID</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="title_activity_sign_up_page">SignUpPage</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="date_of_birth">DOB</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="submit">Submit</string>
+    <string name="Log_Out" />
+    <string name="base">Base</string>
+
+
+
+</resources>
